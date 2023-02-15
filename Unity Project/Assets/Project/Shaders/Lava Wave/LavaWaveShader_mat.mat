@@ -35,10 +35,10 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Amplitude: 4
+    - _Amplitude: 3
     - _Distance: -0.66
-    - _Frequency: 2
-    - _MidValueCutLevel: 0.3
+    - _Frequency: 1.2
+    - _MidValueCutLevel: 0.4
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors:

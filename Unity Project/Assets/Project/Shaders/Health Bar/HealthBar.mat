@@ -27,7 +27,7 @@ Material:
     m_Ints: []
     m_Floats:
     - _HealthPulsingMinValue: 0
-    - _HealthValue: 0.009
+    - _HealthValue: 1
     - _MaxHealthCutLevel: 0.845
     - _MidHealthCutLevel: 0.643
     - _MinHealthBlinkFrequency: 20
