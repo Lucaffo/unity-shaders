@@ -13,5 +13,5 @@ Basics and Essential shaders tecniques to know.
 
 ## Resources
 The Noise Maps and Textures:
-https://opengameart.org/content/noise-texture-pack?page=1
-https://opengameart.org/content/procedural-texture-pack
+- https://opengameart.org/content/noise-texture-pack?page=1
+- https://opengameart.org/content/procedural-texture-pack
