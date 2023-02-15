@@ -1,5 +1,18 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-1905192975715525184
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 5
 --- !u!21 &2100000
 Material:
   serializedVersion: 8
@@ -7,8 +20,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Esercizio 1 - Material
-  m_Shader: {fileID: -6465566751694194690, guid: b4d1d91c8cfd2684d812b2a9c2816cee,
+  m_Name: range_displacement_mat
+  m_Shader: {fileID: -6465566751694194690, guid: 79a0c486fc216c742bb1a81653243353,
     type: 3}
   m_ValidKeywords: []
   m_InvalidKeywords: []
@@ -21,8 +34,8 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
-    - _SampleTexture2D_4d4315911a1a48e78fff3869eca76b1b_Texture_1:
-        m_Texture: {fileID: 2800000, guid: 3042b019b052942a1baf7aa49d7ca6bb, type: 3}
+    - _MainTexture:
+        m_Texture: {fileID: 2800000, guid: 815e7a6b9fa20624fa5574eb0d38b593, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - unity_Lightmaps:
@@ -39,22 +52,13 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
+    - _Displacement_Level: 0.499
+    - _Displacement_Range: 0.1
+    - _Displacement_Value: 1
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _Offset: {r: 0, g: 0, b: 0, a: 0}
-    - _Tiling: {r: 1, g: 1, b: 0, a: 0}
+    - _Tiling: {r: 3, g: 3, b: 0, a: 0}
   m_BuildTextureStacks: []
---- !u!114 &5776311634700988116
-MonoBehaviour:
-  m_ObjectHideFlags: 11
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  version: 5
