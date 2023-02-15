@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Esercizio 18 - Material
+  m_Name: LavaWaveShader_mat
   m_Shader: {fileID: -6465566751694194690, guid: 60d12aa140bfe614cae80f23a244c749,
     type: 3}
   m_ValidKeywords: []
