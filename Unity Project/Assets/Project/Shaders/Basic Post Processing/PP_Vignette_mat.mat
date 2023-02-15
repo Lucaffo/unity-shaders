@@ -58,5 +58,5 @@ Material:
     - _VignetteRadius: 2
     m_Colors:
     - _VignetteCenter: {r: 0.5, g: 0.5, b: 0, a: 0}
-    - _VignetteColor: {r: 0.79091454, g: 0, b: 1, a: 1}
+    - _VignetteColor: {r: 0.7921567, g: 0, b: 1, a: 1}
   m_BuildTextureStacks: []
