@@ -20,6 +20,9 @@ Original             |  Color Remapping with Depth Texture | Basic Vignette
 ## Grass Shader
 ![ Alt text](Media/Unity_rvekiK0e4J.gif)
 
+## Lava Wave Shader
+![ Alt text](Media/Unity_cU7JafKeLy.gif)
+
 ## Resources
 The Noise Maps and Textures:
 - https://opengameart.org/content/noise-texture-pack?page=1
